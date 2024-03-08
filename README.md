@@ -1,4 +1,4 @@
-# PROJET CONTOSO 
+# PROJET CONTOSO :chart_with_upwards_trend:
 ## Table des matières
 - [Introduction](#introduction)
 - [Modèle Tabulaire](#Modèle-tabulaire)
