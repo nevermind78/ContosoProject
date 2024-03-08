@@ -37,6 +37,9 @@ Lien vers contoso databae :dvd: [Lien](https://www.microsoft.com/en-us/download/
 
 ![Modele](img/pb2.png)
 
+### Animation 
+![animation](img/animationPBI.gif)
+
 ## Conclusion
 Conclusion et prochaine étape
 
