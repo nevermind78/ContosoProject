@@ -17,11 +17,11 @@ Ceci est un projet d'analyse de donné basé sur la base de donnée Contoso
 
 ## Excel 
 
-### Pivot Table EXCEL
+### Pivot Table EXCEL 
 
 ![Modele](img/PivotTable.png)
 
-### Histogramme Groupés EXCEL
+### Histogramme Groupés EXCEL :bar_chart:
 
 ![Modele](img/HisGroupe.png)
 
