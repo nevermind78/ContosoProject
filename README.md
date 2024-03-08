@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Ceci est un projet d'analyse de donné basé sur la base de donnée Contoso 
+Ceci est un projet d'analyse de donné avec SSAS , EXCEL et PBI basé sur la base de donnée Contoso 
 
 Lien vers contoso databae :dvd: [Lien](https://www.microsoft.com/en-us/download/details.aspx?id=18279)
 
