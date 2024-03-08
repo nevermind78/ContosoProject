@@ -11,11 +11,11 @@ Ceci est un projet d'analyse de donné basé sur la base de donnée Contoso
 
 ### Pivot Table 
 
-![Modele](img/HisGroupe.png)
+![Modele](img/PivotTable.png)
 
 ### Histogramme Groupés
 
-![Modele](img/modele.png)
+![Modele](img/HisGroupe.png)
 
 
 
